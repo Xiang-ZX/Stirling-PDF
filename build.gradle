@@ -174,7 +174,7 @@ dependencies {
     // runtimeOnly "com.twelvemonkeys.imageio:imageio-xwd:$imageioVersion"
 
     implementation "commons-io:commons-io:2.17.0"
-    implementation "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.2.0"
+    implementation "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0"
     //general PDF
 
     // https://mvnrepository.com/artifact/com.opencsv/opencsv
